@@ -1,0 +1,10 @@
+#spring:
+#  data:
+#    mongodb:
+#      user: ${USER-NAME}
+#      password: ${PASSWORD}
+#      uri: ${DB-URL}
+#      database: ${DATABASE-NAME}
+spring:
+  profiles:
+    active: Dev

@@ -1,0 +1,11 @@
+logging:
+  level:
+    com.nit.springbootmongodbcrud: INFO
+    org.springframework.web: ERROR
+spring:
+  data:
+    mongodb:
+      user: nitesh
+      password: 726MecUUkCp0ToTV
+      uri: mongodb://localhost:27017/
+      database: trackzilla
